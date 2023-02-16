@@ -1,0 +1,19 @@
+{
+  "name": "test_voting_service",
+  "version": "1.0.0",
+  "description": "A test app for a voting system ill be adding to another site later",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cai-py/test_voting_service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cai-py/test_voting_service/issues"
+  },
+  "homepage": "https://github.com/cai-py/test_voting_service#readme"
+}
